@@ -11,8 +11,7 @@ This tutorial will guide you through the process of implementing an object detec
 
 ## Setup and Installation
 
-1. Ensure you have [Node.js](https://nodejs.org/) installed on your computer.
-2. Clone the tutorial repository from GitHub (assuming a repository link is provided, otherwise skip this step).
+1. Clone the tutorial repository from GitHub (assuming a repository link is provided, otherwise skip this step).
 
 ## References
 
